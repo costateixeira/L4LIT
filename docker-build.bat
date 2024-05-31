@@ -1,1 +1,1 @@
-docker build --tag hapiproject/hapi:latest --tag hapiproject/hapi:4.1 -m 4g .
+docker build --tag smart/l4lit:latest --tag smart/l4lit:latest -m 4g .
